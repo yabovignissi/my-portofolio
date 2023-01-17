@@ -281,8 +281,8 @@
     }
   }
   .home {
-    background: white;
-    color: #273036;
+    background: #273036;
+    color:white;
     padding: 1rem 0 0 0;
   } 
   .home .title {
